@@ -49,6 +49,7 @@ Figure 02  Encoder 8 * 3
 
 Developed by: Keerthivasan K S
 RegisterNumber: 212224230120
+
 ```
 module Exp_5(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
@@ -60,12 +61,13 @@ endmodule
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 <img width="453" height="333" alt="image" src="https://github.com/user-attachments/assets/1a3bd6e3-8423-4f28-a6cd-05762b6613dc" />
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1870" height="537" alt="image" src="https://github.com/user-attachments/assets/22d5628b-bdd4-455f-ac90-2c982ce7215a" />
 
+<img width="1870" height="537" alt="image" src="https://github.com/user-attachments/assets/22d5628b-bdd4-455f-ac90-2c982ce7215a" />
 
 **RESULTS**
 
